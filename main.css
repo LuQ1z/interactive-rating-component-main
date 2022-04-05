@@ -160,3 +160,20 @@ body {
 .hide {
 	display: none;
 }
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	display: grid;
+	place-items: center;
+}
+
+.attribution {
+	color: white;
+}
+
+.attribution a {
+	color: blue;
+	text-decoration: none;
+}
